@@ -53,10 +53,8 @@ The trained model was exported to ONNX (opset 18) and compiled into a TensorRT F
 - ~73.5% valid road detections in batch evaluation on Aeroscapes
 - Fully integrated, closed-loop demo: satellite image synthesis → segmentation → centerline extraction → PX4 offboard control
 
-## Acknowledgements
 
-Developed during an internship at **RESOLVE Research Center**, under the supervision of **Dr. Shakeel Ur Rehman**.
 
----
+I developed during an internship at **RESOLVE Research Center**, under the supervision of **Dr. Shakeel Ur Rehman**.
 
-*This repository documents a research prototype built for demonstration purposes; it is not flight-certified for real-world UAV operation.*
+
